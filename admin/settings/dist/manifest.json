@@ -1,0 +1,18 @@
+{
+  "src/assets/logo.png": {
+    "file": "assets/logo-CRCGZfjE.png",
+    "src": "src/assets/logo.png"
+  },
+  "src/main.ts": {
+    "file": "assets/main-CHt8LgQx.js",
+    "name": "main",
+    "src": "src/main.ts",
+    "isEntry": true,
+    "css": [
+      "assets/main-Cnh3QuuM.css"
+    ],
+    "assets": [
+      "assets/logo-CRCGZfjE.png"
+    ]
+  }
+}
